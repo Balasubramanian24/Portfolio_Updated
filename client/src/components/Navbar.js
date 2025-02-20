@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Navbar as BSNavbar, Nav, Container, Button } from "react-bootstrap";
-import { FaSun, FaMoon, FaGithub, FaLinkedin, FaTwitter, FaFacebook } from "react-icons/fa";
+import { FaSun, FaMoon} from "react-icons/fa";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const Navbar = () => {
