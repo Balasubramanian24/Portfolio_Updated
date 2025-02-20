@@ -22,8 +22,6 @@ const Contact = () => {
     setFormMessage("");
     setError(false);
 
-    const API_URL = import.meta.env.VITE_API_URL || ""; //vercel deployment
-
     if (formData.name && formData.email && formData.message) {
       try {
         setIsLoading(true);
