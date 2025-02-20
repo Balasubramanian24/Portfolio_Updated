@@ -41,6 +41,7 @@ const Projects = () => {
                 <a
                   href="https://notesbuddyin.netlify.app/"
                   target="_blank"
+                  rel="noreferrer"
                   className="btn btn-primary p-2 m-2"
                 >
                   Live Demo
@@ -49,6 +50,7 @@ const Projects = () => {
                   href="https://github.com/Balasubramanian24/todo-list-Javascript"
                   className="btn btn-primary p-2 m-2"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   View Project
                 </a>
@@ -73,6 +75,7 @@ const Projects = () => {
                 <a
                   href="https://actualweatherin.netlify.app/"
                   target="_blank"
+                  rel="noreferrer"
                   className="btn btn-primary m-2 p-2"
                 >
                   Live Demo
@@ -81,6 +84,7 @@ const Projects = () => {
                   href="https://github.com/Balasubramanian24/WeatherApplication"
                   className="btn btn-primary p-2 m-2"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   View Project
                 </a>
@@ -105,6 +109,7 @@ const Projects = () => {
                 <a
                   href="https://shopeasyin.vercel.app/"
                   target="_blank"
+                  rel="noreferrer"
                   className="btn btn-primary p-2 m-2"
                 >
                   Live Demo
@@ -113,6 +118,7 @@ const Projects = () => {
                   href="https://github.com/Balasubramanian24/ShoppingCart_ReactJs"
                   className="btn btn-primary p-2 m-2"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   View Project
                 </a>
